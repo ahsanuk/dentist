@@ -1,0 +1,83 @@
+/* Name: Ahsan Ul Kabir College Project
+	// https://github.com/ahsanuk    
+	// https://www.linkedin.com/in/ahsanuk/  */
+
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    color: #847373;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #a7a7a7;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.home-image{
+    background-image: url("../images/img2.jpg");
+    height: 300px;
+    width: 100%;   /*margin-right: 10px;*/
+}
+.welcome-text{
+
+}
+.image-text{
+        margin-right: 20px;
+    margin-top: 50px;
+    position: absolute;
+    font-size: 350%;
+    color: #000000;
+    /* text-align: center; */
+    margin-left: 21%;
+    margin-top: 15%;
+}
+.home-text{
+
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 120%;
+    /*margin-bottom: 100px;*/
+     margin: 0 auto;
+    text-align: center;
+    width: 800px;
+    margin-bottom: 100px;
+}
+.service-list{
+    margin: 0 auto;
+    text-align: center;
+    width: 800px;
+}
+.service-list-menu{
+    line-height: 383%;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px;
+}
+/*table styling prpose for consultations fees*/
+
+
